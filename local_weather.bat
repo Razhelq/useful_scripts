@@ -1,0 +1,1 @@
+@py.exe F:\Python repositiories\useful_scripts\local_weather.py %*
