@@ -6,3 +6,4 @@ Useful scripts I used for job automation
 - mapit.py - launches a map in the browser using an address from the command line or clipboard
 - pdf_paranoia.py - finds all pdf files in current working directory and encrypt them with provided password
 - pdf_encrypter.py - encrypt given file with provided password
+- pdf_decrypter.py - finds every encrypted pdf file in current working directory and creates a decrypted copy using a provided password.
