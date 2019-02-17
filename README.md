@@ -10,3 +10,5 @@ If it is going to rain next day it uses twilio to send a text message to inform 
 - pdf_paranoia.py - finds all pdf files in current working directory and encrypt them with provided password
 - pdf_encrypter.py - encrypt given file with provided password
 - pdf_decrypter.py - finds every encrypted pdf file in current working directory and creates a decrypted copy using a provided password.
+
+and other.
